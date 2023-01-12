@@ -1,0 +1,7 @@
+1. For creating databse and Checking required mosules use Setup.py file stored in Misc folder.
+2. Now your pc is Ready to run my code
+3. If you wish to reset the databse use reset.py
+
+Note : Python And MySQL should be pre-installed in your system toh use this project.
+
+Thanks
